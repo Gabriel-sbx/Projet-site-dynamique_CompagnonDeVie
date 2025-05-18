@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['_24_5farrdata_0',['$_arrData',['../class_mother_ctrl.html#af0e27b778654ad20ed55b4831a98f300',1,'MotherCtrl']]],
+  ['_24_5farrerrors_1',['$_arrErrors',['../class_mother_ctrl.html#a0b117d4c2a7e926be93bfdb1b3b71681',1,'MotherCtrl']]],
+  ['_24_5farrsuccess_2',['$_arrSuccess',['../class_mother_ctrl.html#ae8706751937e8969873dc65f045a28ae',1,'MotherCtrl']]],
+  ['_24_5fdate_5fcrea_3',['$_date_crea',['../class_mother_entity.html#aef27bbd161c9874f835540f0b4aace98',1,'MotherEntity']]],
+  ['_24_5fdb_4',['$_db',['../class_mother_model.html#adfba6f6252f65fbdb668578f303f1d25',1,'MotherModel']]],
+  ['_24_5fname_5',['$_name',['../class_mother_entity.html#a1e52f3ad975e749d4ae5c165191c5da6',1,'MotherEntity']]],
+  ['_24_5fprefixe_6',['$_prefixe',['../class_mother_entity.html#a9407fce1db02c01084f21e4275a1ce99',1,'MotherEntity']]],
+  ['_24_5fstatus_7',['$_status',['../class_mother_entity.html#a9a1472ba85c059f1d18ad94dabe12984',1,'MotherEntity']]],
+  ['_24intbreedid_8',['$intBreedId',['../class_animal_model.html#af2f2f7e2458fc84a059c5657931c1732',1,'AnimalModel']]],
+  ['_24intcategoryid_9',['$intCategoryId',['../class_animal_model.html#a57ba91e1713a8e52dca77becdd0c5b6c',1,'AnimalModel']]],
+  ['_24strcategory_10',['$strCategory',['../class_animal_model.html#ad24030cca2e242800561e65ffb95ec5c',1,'AnimalModel']]],
+  ['_24strcharact_11',['$strCharact',['../class_animal_model.html#a7b0b8fa4d2ad147ffb9925e541e7ca38',1,'AnimalModel']]],
+  ['_24strdate_12',['$strDate',['../class_animal_model.html#a181ce57ca1acac21e6d6ee267356d668',1,'AnimalModel']]],
+  ['_24strkeywords_13',['$strKeywords',['../class_animal_model.html#a8c250f8d2416cad03364093ceebde587',1,'AnimalModel']]],
+  ['_24strraces_14',['$strRaces',['../class_animal_model.html#a6c4d1f5eeedd52c7d688fa3e3654195b',1,'AnimalModel']]],
+  ['_24strref_15',['$strRef',['../class_animal_model.html#a8b57c63bdef0baf08666e9e0aa85d915',1,'AnimalModel']]],
+  ['_24strsexe_16',['$strSexe',['../class_animal_model.html#a13b46bb5fb418c936b4c6cf55809a69e',1,'AnimalModel']]],
+  ['_24strspec_17',['$strSpec',['../class_animal_model.html#a1efc27fec139332476517b92e79cd394',1,'AnimalModel']]],
+  ['_24strtsize_18',['$strtSize',['../class_animal_model.html#a4c016f9d8dc0a2f753080bec2b549e36',1,'AnimalModel']]]
+];

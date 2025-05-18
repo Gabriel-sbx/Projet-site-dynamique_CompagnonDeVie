@@ -1,0 +1,22 @@
+{
+    "name": "gabri/refuge_compagnon_de_vie",
+    "require": {
+        "smarty/smarty": "^5.4",
+        "phpmailer/phpmailer": "^6.9.2"
+
+    },
+    "authors": [
+        {
+            "name": "Soubeyroux Gabriel",
+            "email": "gabriel68150@gmail.com"
+        },
+        {
+            "name": "Braun Fabrice",
+            "email": "adresse@mail.com"
+        },
+        {
+            "name": "Bentchikou Nabil",
+            "email": "adresse@mail.com"
+        }
+    ]
+}
